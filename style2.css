@@ -2,3 +2,6 @@
 .appbar{background: rgb(75, 74, 74);} .menu-host{background: rgb(60, 59, 59);} .appbar>div>a, a.appbar-button{background: dimgray;} .menu-footer{background: #2c2d2e;} dl.list-dl #recurrencePatternText, dl.list-dl #huiswerk-info-text{color:white;}
 .cijfers-k-grid.k-grid .k-grid-content{background: #393939;}
 .appbar{background: rgb(43, 45, 45);}
+form .radio input[type="radio"] ~ label, fieldset .radio input[type="radio"] ~ label{color: #ffffff !important; background: dimgray;}
+.k-multiselect .k-multiselect-wrap{background:gray;}
+div.loading-overlay{background:dimgray;}
