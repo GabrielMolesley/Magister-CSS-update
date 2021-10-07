@@ -4,3 +4,4 @@
 form .radio input[type="radio"] ~ label, fieldset .radio input[type="radio"] ~ label{color: #ffffff !important; background: dimgray;}
 .k-multiselect .k-multiselect-wrap{background:gray;}
 .appbar{background:#1f1f1f;}
+.main-menu>li.active>a, .main-menu>li>a:hover{background:#1f1f1f;}
