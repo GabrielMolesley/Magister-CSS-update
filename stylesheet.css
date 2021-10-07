@@ -6,3 +6,4 @@ form .radio input[type="radio"] ~ label, fieldset .radio input[type="radio"] ~ l
 .appbar{background:#1f1f1f;}
 .main-menu>li.active>a, .main-menu>li>a:hover{background:#1f1f1f;}
 .menu-host{background:rgb(41, 41, 41);}
+.sources li a{background: gray;}
